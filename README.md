@@ -25,5 +25,5 @@ python zeta.py
 
 ## ✍️ Authors <a name = "authors"></a>
 
-Discord: 𝐕𝐞𝐫𝐲 𝐒𝐮𝐩𝐞𝐫 𝐂𝐚𝐭𝐟𝐮𝐜𝐤𝐞𝐫#9527
+Discord: 𝐕𝐞𝐫𝐲 𝐒𝐮𝐩𝐞𝐫 𝐂𝐚𝐭𝐟𝐮𝐜𝐤𝐞𝐫#9527<br>
 Mail: vadimpopovski@yandex.ru
