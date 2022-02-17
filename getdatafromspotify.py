@@ -4,8 +4,8 @@ import json
 import lyrics
 from spotipy.oauth2 import SpotifyClientCredentials
 
-clientid = 'd9433b51c199464192f340700f9dc379'
-clientsecret = 'e94039ebd23344b492b55096ee1a1d50'
+clientid = 'YOUR_CLIENT_ID'
+clientsecret = 'YOUR_CLIENT_SECRET'
 
 # Connect to Spotify api
 client_credentials_manager = SpotifyClientCredentials(client_id=clientid, client_secret=clientsecret)
