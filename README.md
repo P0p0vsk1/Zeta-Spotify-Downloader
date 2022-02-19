@@ -6,11 +6,11 @@
     <br> 
 </p>
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
 Got tired of doing nothing, "Fuck it, imma re write spotdl myself"...
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "getting_started"></a>
 
 ### Installing
 
@@ -25,7 +25,7 @@ python zeta.py
 
 Remember to change the YOUR_CLIENT_ID and YOUR_CLIENT_SECRET in getdatafromspotify.py befor running the zeta.py
 
-## ✍️ Authors <a name = "authors"></a>
+## Author <a name = "author"></a>
 
 Discord: 𝐕𝐞𝐫𝐲 𝐒𝐮𝐩𝐞𝐫 𝐂𝐚𝐭𝐟𝐮𝐜𝐤𝐞𝐫#9527<br>
 Mail: vadimpopovski@yandex.ru
